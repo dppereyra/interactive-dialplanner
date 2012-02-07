@@ -1,0 +1,5 @@
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\bin\Release\Tamir.SharpSSH.dll
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\Tamir.SharpSsh.jsch.examples.InputForm.resources
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\SharpSSH.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\Tamir.SharpSSH.dll

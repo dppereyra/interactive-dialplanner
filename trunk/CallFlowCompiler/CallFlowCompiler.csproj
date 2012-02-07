@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BA894937-087D-467A-8220-51344A94F38C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interaction.Compiler</RootNamespace>
+    <AssemblyName>CallFlowCompiler</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+    <ApplicationIcon>flow.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\InteractiveBuilder\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractActivity.cs" />
+    <Compile Include="ActivityCreator.cs" />
+    <Compile Include="AGIActivity.cs" />
+    <Compile Include="AnswerActivity.cs" />
+    <Compile Include="AuthenticateActivity.cs" />
+    <Compile Include="BridgeCallActivity.cs" />
+    <Compile Include="CalculationActivity.cs" />
+    <Compile Include="ChangeExtActivity.cs" />
+    <Compile Include="CompareActivity.cs" />
+    <Compile Include="CutActivity.cs" />
+    <Compile Include="GetDigitsActivity.cs" />
+    <Compile Include="GotoActivity.cs" />
+    <Compile Include="GotoIfTimeActivity.cs" />
+    <Compile Include="HangupActivity.cs" />
+    <Compile Include="IActivity.cs" />
+    <Compile Include="InstructionSet.cs" />
+    <Compile Include="LengthActivity.cs" />
+    <Compile Include="MergeActivity.cs" />
+    <Compile Include="MixMonitorActivity.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="Page.cs" />
+    <Compile Include="PlayMsgActivity.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadActivity.cs" />
+    <Compile Include="RecordActivity.cs" />
+    <Compile Include="SayActivity.cs" />
+    <Compile Include="SetActivity.cs" />
+    <Compile Include="SetLanguageActivity.cs" />
+    <Compile Include="StartActivity.cs" />
+    <Compile Include="StopMixMonitorActivity.cs" />
+    <Compile Include="SubProcActivity.cs" />
+    <Compile Include="SubProcEndActivity.cs" />
+    <Compile Include="SwitchCaseActivity.cs" />
+    <Compile Include="VoiceMailActivity.cs" />
+    <Compile Include="VoiceMailMainActivity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="flow.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

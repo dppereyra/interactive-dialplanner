@@ -1,0 +1,45 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\IGraphEvent\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\IGraphEvent\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\IGraphEvent\obj\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\IGraphEvent\obj\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.pdb
+D:\Project\TestBed\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll
+D:\Project\TestBed\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.pdb
+D:\Project\TestBed\InteractionFlowDesigner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.dll
+D:\Project\TestBed\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\IGraphEvent\bin\Debug\IGraphEvent.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.pdb
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll.config
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.pdb
+H:\Projects\InteractionFlowDesigner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.dll
+H:\Projects\InteractionFlowDesigner\IGraphEvent\obj\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IGraphEvent.dll.config
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\InteractiveDialplanner\IGraphEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\IGraphEvent\obj\Debug\IGraphEvent.dll
+C:\mydocs\Project\InteractiveDialplanner\IGraphEvent\obj\Debug\IGraphEvent.pdb

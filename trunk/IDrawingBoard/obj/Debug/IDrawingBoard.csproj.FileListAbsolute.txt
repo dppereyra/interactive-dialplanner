@@ -1,0 +1,58 @@
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+D:\Project\TestBed\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll
+D:\Project\TestBed\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.pdb
+D:\Project\TestBed\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+D:\Project\TestBed\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll.config
+G:\Temp\InteractionFlowDesigner\IDrawingBoard\bin\Debug\IDrawingBoard.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+H:\Projects\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+H:\Projects\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+I:\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+I:\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+I:\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll.config
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\InteractiveDialplanner\IDrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\IDrawingBoard\obj\Debug\IDrawingBoard.dll
+C:\mydocs\Project\InteractiveDialplanner\IDrawingBoard\obj\Debug\IDrawingBoard.pdb

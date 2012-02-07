@@ -1,0 +1,3 @@
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\InteractiveBuilder.exe.config
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\obj\Debug\InteractiveBuilder.exe
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\obj\Debug\InteractiveBuilder.pdb
