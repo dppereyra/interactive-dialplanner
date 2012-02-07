@@ -1,0 +1,145 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\StartActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\IActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\bin\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\obj\Debug\StartActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Node.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Node.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Page.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Page.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Page.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\Page.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\Node.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\Page.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\Page.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\bin\Debug\Node.pdb
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+D:\Project\TestBed\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\Node.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\Page.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\GraphContainer.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\AbstractActivity.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\Page.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\IActivity.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\Node.pdb
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll.config
+G:\Temp\InteractionFlowDesigner\StartActivity\bin\Debug\StartActivity.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+G:\Temp\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+H:\Projects\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+H:\Projects\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+H:\Projects\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+H:\Projects\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+H:\Projects\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+I:\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+I:\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+I:\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+I:\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+I:\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+I:\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\StartActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.frmProps.resources
+G:\Temp\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.frmProps.resources
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\StartActivity\obj\Debug\Interaction.Graph.frmProps.resources
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\StartActivity.dll.config
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\StartActivity.dll
+C:\mydocs\Project\InteractiveDialplanner\InteractiveBuilder\bin\Debug\StartActivity.pdb
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\Interaction.Graph.frmProps.resources
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\Interaction.Graph.Properties.Resources.resources
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\StartActivity.csproj.GenerateResource.Cache
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\StartActivity.dll
+C:\mydocs\Project\InteractiveDialplanner\StartActivity\obj\Debug\StartActivity.pdb

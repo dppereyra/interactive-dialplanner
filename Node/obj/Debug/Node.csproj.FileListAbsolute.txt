@@ -1,0 +1,69 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\bin\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\bin\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\obj\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Node\obj\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+D:\Project\TestBed\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+D:\Project\TestBed\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+D:\Project\TestBed\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+D:\Project\TestBed\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+D:\Project\TestBed\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+D:\Project\TestBed\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+G:\Temp\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+G:\Temp\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+G:\Temp\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+G:\Temp\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.dll.config
+G:\Temp\InteractionFlowDesigner\Node\bin\Debug\Node.dll.config
+H:\Projects\InteractionFlowDesigner\Node\bin\Debug\Node.dll.config
+H:\Projects\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+H:\Projects\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+H:\Projects\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+H:\Projects\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+H:\Projects\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+H:\Projects\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+I:\InteractionFlowDesigner\Node\bin\Debug\Node.dll.config
+I:\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+I:\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+I:\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+I:\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+I:\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+I:\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+I:\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.dll.config
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\Node.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Node\obj\Debug\Node.pdb
+C:\mydocs\Project\InteractiveDialplanner\Node\bin\Debug\Node.dll.config
+C:\mydocs\Project\InteractiveDialplanner\Node\bin\Debug\Node.dll
+C:\mydocs\Project\InteractiveDialplanner\Node\bin\Debug\Node.pdb
+C:\mydocs\Project\InteractiveDialplanner\Node\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\InteractiveDialplanner\Node\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\InteractiveDialplanner\Node\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\Node\obj\Debug\Node.dll
+C:\mydocs\Project\InteractiveDialplanner\Node\obj\Debug\Node.pdb

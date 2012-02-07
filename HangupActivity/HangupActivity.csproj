@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F7809B2-46C1-42A3-988E-954A0A748678}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interaction.Graph</RootNamespace>
+    <AssemblyName>HangupActivity</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\InteractiveBuilder\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\InteractiveBuilder\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmProps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProps.Designer.cs">
+      <DependentUpon>frmProps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HangupActivity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractActivity\AbstractActivity.csproj">
+      <Project>{A0ACC619-D27A-4949-9BC8-A118F506A833}</Project>
+      <Name>AbstractActivity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CustomControls\CustomControls.csproj">
+      <Project>{697B994E-2C45-40F7-AB2C-B81252DAE446}</Project>
+      <Name>CustomControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphContainer\GraphContainer.csproj">
+      <Project>{7394FE9B-F904-4141-8A65-AFA2201C8385}</Project>
+      <Name>GraphContainer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IActivity\IActivity.csproj">
+      <Project>{E164ABE3-07DF-44B4-BC70-B44C2F390E58}</Project>
+      <Name>IActivity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IDrawingBoard\IDrawingBoard.csproj">
+      <Project>{77B2619D-A4F4-4033-AA78-6412A732FFD7}</Project>
+      <Name>IDrawingBoard</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IGraphEvent\IGraphEvent.csproj">
+      <Project>{71EFA1C0-AF17-4262-BD05-AD24A8AC3CB8}</Project>
+      <Name>IGraphEvent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Node\Node.csproj">
+      <Project>{FDB6AA67-583D-4D7D-9C53-995E987BB71D}</Project>
+      <Name>Node</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmProps.resx">
+      <DependentUpon>frmProps.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\block.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\hangup.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

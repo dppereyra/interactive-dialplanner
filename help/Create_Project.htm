@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Create Project</title>
+<meta name="GENERATOR" content="MSHTML 8.00.6001.18939">
+<meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type">
+
+</head>
+<body bgcolor="#ffffff">
+<h1 align="left">Starting a Project</h1>
+<ol>
+  <li>Start the Interactive Dialplanner development environment and create 
+  a new project.<br>a. Click File &gt; New Project.&nbsp; A dialog box 
+  appears.<br><img border="0" hspace="0" src="image/new project.png"><br>
+  <li>In the Project dialog box, Specify the Project Name, Description, Version, 
+  and the extension for the Asterisk Call Flow context.<br><br>The Interactive 
+  Dialplanner &nbsp;allow you&nbsp;to&nbsp;remote update the call flow 
+  via SSL.&nbsp; Your Asterisk PBX should enable the SSH and SFTP feature for 
+  the remote update.&nbsp; To enable this feature, Please check "Using SSL for 
+  Remote Update" and specify the host , or IP address of the Asterisk PBX, SSH 
+  port number, login user name, password.&nbsp; The File Path and Command should 
+  follow the default setting for the Asterisk.&nbsp; Please specify these if 
+  your Asterisk PBX has a differenct configuration.<br><br>Click <span 
+  style="FONT-WEIGHT: bold">OK</span> to finish creating your 
+  project.<br><br><img border="0" hspace="0" src="image/project.png"><br>
+  <li>After creating project, you should create a first call flow page for your 
+  call flow project.&nbsp; The call flow page creates a design area onto which 
+  you add the activity chosen in the design phase.&nbsp; Also you can add more 
+  call flow pages if necessary.<br><br><strong>To add the call flow 
+  page:<br></strong>a, Click Project &gt; Add Call Flow.&nbsp; A dialog 
+  appears.<br>b, Specify the name of call flow.&nbsp; Notes the name of call 
+  flow will be the name of context in the Asterisk PBX.<br><strong><img 
+  style="WIDTH: 881px; HEIGHT: 518px" border=0 hspace=0 src="image/addflow.png" 
+  width=695 height=421><br><br></strong>c, The Call Flow Page appears.&nbsp; You 
+  can drag the Activity in the Toolbox into the Call Flow Page.<br><img 
+  style="WIDTH: 880px; HEIGHT: 539px" border=0 hspace=0 src="image/overview.png" 
+  width=740 height=507><br><br>
+  <li>Setting Activity Name and properties<br>Every activity in the call flow 
+  has a unique name that identify the activity and properties.&nbsp; The name of 
+  activity is stored in the "Label" field of the activity.<br><br><strong>The 
+  Interactive Dialplanner has two way to change the activity 
+  name.<br></strong>a, Select the activity on the call flow.&nbsp; 
+  The&nbsp;activity name will show on the properties area.&nbsp; You can change 
+  the value of label field.<br><img border="0" hspace="0" 
+  src="image/properties.png"><br><br><img border="0" hspace="0" 
+  src="image/properties.png" width=0 height=0><br><img border="0" hspace="0" 
+  src="image/properties.png" width=0 height=0><br>b, Double click the 
+  activity.&nbsp; The dialog box appears.<br><img border="0" hspace="0" 
+  src="image/properties-dialog.png"><br><br><br><strong><img border="0" hspace="0" 
+  src="image/addflow.png" width=0 height=0></strong>Click "OK" to confirm the 
+  changes.<br>
+  <li>Connecting activities<br>Activity have a input node on the left-hand side. 
+  All activities, with the exception of Hangup SubProcEnd and Goto, have one or 
+  more output nodes on the right-hand side.&nbsp; A call enters the activity 
+  through an input node and after the activity finishes processing, it directs 
+  the call flow through the output node to the next activity.<br><img border="0" 
+  hspace=0 src="image/nodes.png" width=0 height=0><img border="0" hspace="0" 
+  src="image/nodes.png" width=0 height=0><img border="0" hspace="0" 
+  src="image/nodes.png"><br><strong>To connect one activity to 
+  another:</strong><br>a, Select an output node.<br>b, Drag the mouse to the 
+  input node of the activity that performs the next action.<br>c, Release the 
+  mouse button. The connection becomes permanent.<br><img border="0" hspace="0" 
+  src="image/connection.png"><br><img border="0" hspace="0" src="image/project.png" 
+  width=0 height=0><br><img border="0" hspace="0" src="image/new project.png" 
+  width=0 height=0></li></ol>
+<p><a href="http://www.pagebreeze.com" target="_blank"><font 
+size=1></font></a>&nbsp;</p></body></html>

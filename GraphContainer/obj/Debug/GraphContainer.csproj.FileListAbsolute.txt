@@ -1,0 +1,178 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+D:\Project\TestBed\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+G:\Temp\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+H:\Projects\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+H:\Projects\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+G:\Temp\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+G:\Temp\InteractionFlowDesigner\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+I:\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+I:\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll.config
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Page.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Line.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\IActivity.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\bin\Debug\Node.pdb
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.dll
+C:\mydocs\Project\Personal\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\GraphContainer\obj\Debug\GraphContainer.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\Interaction.Graph.frmAddVar.resources
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\Interaction.Graph.frmVariable.resources
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\GraphContainer.csproj.GenerateResource.Cache
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\GraphContainer.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\GraphContainer.dll.config
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\GraphContainer.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\GraphContainer.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IActivity.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IDrawingBoard.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IGraphEvent.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Line.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Node.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Page.dll
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Page.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IDrawingBoard.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Line.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IGraphEvent.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\IActivity.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\bin\Debug\Node.pdb
+C:\mydocs\Project\InteractiveDialplanner\GraphContainer\obj\Debug\GraphContainer.pdb

@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\mydocs\Project\InteractiveDialplanner\help\interactivecallflow.chm
+
+
+Compile time: 0 minutes, 1 second
+35	Topics
+130	Local links
+7	Internet links
+49	Graphics
+
+
+Created c:\mydocs\Project\InteractiveDialplanner\help\interactivecallflow.chm, 670,047 bytes
+Compression decreased file by 113,386 bytes.

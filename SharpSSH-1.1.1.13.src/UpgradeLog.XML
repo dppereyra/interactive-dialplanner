@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SharpSSH">
+</Property><Property Name="Solution File" Value="G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\SharpSSH.sln">
+</Property><Property Name="Date" Value="Wednesday, 02 February, 2011">
+</Property><Property Name="Time" Value="11:26 AM">
+</Property></Properties><Event ErrorLevel="0" Project="SharpSSH" Source="SharpSSH\SharpSSH.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SharpSSH" Source="SharpSSH\SharpSSH.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Examples" Source="Examples\Examples.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Examples" Source="Examples\Examples.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SharpSSH.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SharpSSH.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SharpSSH" Source="SharpSSH\SharpSSH.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Examples" Source="Examples\Examples.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,22 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\Interaction.Graph.frmProps.resources
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\Interaction.Graph.Properties.Resources.resources
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\BidgeCallActivity.csproj.GenerateResource.Cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\BidgeCallActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\BidgeCallActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\AbstractActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\GraphContainer.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IDrawingBoard.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IGraphEvent.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\Node.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\Page.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IDrawingBoard.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\GraphContainer.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\AbstractActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IGraphEvent.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\Page.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\IActivity.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\bin\Release\Node.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\BidgeCallActivity.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\BidgeCallActivity\obj\Release\BidgeCallActivity.pdb

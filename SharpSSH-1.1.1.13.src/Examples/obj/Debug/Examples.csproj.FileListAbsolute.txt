@@ -1,0 +1,7 @@
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\bin\Debug\sharpSshTest.exe
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\bin\Debug\sharpSshTest.pdb
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\Examples\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.jsch_samples.InputForm.resources
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.exe
+G:\Temp\InteractionFlowDesigner\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.pdb

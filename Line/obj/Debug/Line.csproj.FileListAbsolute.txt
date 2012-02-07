@@ -1,0 +1,39 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Line\bin\Debug\Line.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Line\bin\Debug\Line.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Line\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Line\obj\Debug\Line.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\GDITest\Line\obj\Debug\Line.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\bin\Debug\Line.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\bin\Debug\Line.pdb
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\Line.dll
+C:\mydocs\Project\Dennis Wu\Dennis Wu Workshop\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\Line.pdb
+D:\Project\TestBed\InteractionFlowDesigner\Line\bin\Debug\Line.dll
+D:\Project\TestBed\InteractionFlowDesigner\Line\bin\Debug\Line.pdb
+D:\Project\TestBed\InteractionFlowDesigner\Line\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestBed\InteractionFlowDesigner\Line\obj\Debug\Line.dll
+D:\Project\TestBed\InteractionFlowDesigner\Line\obj\Debug\Line.pdb
+G:\Temp\InteractionFlowDesigner\Line\bin\Debug\Line.dll
+G:\Temp\InteractionFlowDesigner\Line\bin\Debug\Line.pdb
+G:\Temp\InteractionFlowDesigner\Line\obj\Debug\ResolveAssemblyReference.cache
+G:\Temp\InteractionFlowDesigner\Line\obj\Debug\Line.dll
+G:\Temp\InteractionFlowDesigner\Line\obj\Debug\Line.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\bin\Debug\Line.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\bin\Debug\Line.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\bin\Debug\Line.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\Line.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\Line\obj\Debug\Line.pdb
+G:\Temp\InteractionFlowDesigner\Line\bin\Debug\Line.dll.config
+H:\Projects\InteractionFlowDesigner\Line\bin\Debug\Line.dll.config
+H:\Projects\InteractionFlowDesigner\Line\bin\Debug\Line.dll
+H:\Projects\InteractionFlowDesigner\Line\bin\Debug\Line.pdb
+H:\Projects\InteractionFlowDesigner\Line\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\InteractionFlowDesigner\Line\obj\Debug\Line.dll
+H:\Projects\InteractionFlowDesigner\Line\obj\Debug\Line.pdb
+C:\mydocs\Project\InteractiveDialplanner\Line\bin\Debug\Line.dll.config
+C:\mydocs\Project\InteractiveDialplanner\Line\bin\Debug\Line.dll
+C:\mydocs\Project\InteractiveDialplanner\Line\bin\Debug\Line.pdb
+C:\mydocs\Project\InteractiveDialplanner\Line\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\InteractiveDialplanner\Line\obj\Debug\Line.dll
+C:\mydocs\Project\InteractiveDialplanner\Line\obj\Debug\Line.pdb

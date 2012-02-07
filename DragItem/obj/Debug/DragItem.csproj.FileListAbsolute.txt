@@ -1,0 +1,6 @@
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\bin\Debug\DragItem.dll.config
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\bin\Debug\DragItem.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\bin\Debug\DragItem.pdb
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\obj\Debug\ResolveAssemblyReference.cache
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\obj\Debug\DragItem.dll
+C:\mydocs\Project\Asterisk.NET.1.6.3.1\InteractionFlowDesigner\DragItem\obj\Debug\DragItem.pdb
